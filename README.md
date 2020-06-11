@@ -1,5 +1,5 @@
 # Apple Glass
-Use iPhone 12 and VR headset to simulate AR glass. Use iPhoen Lidar sensor and ARKit to enhance AR experience.
+Use iPhone 12 and VR headset to simulate AR glass. Use iPhoen LiDAR sensor and ARKit to enhance AR experience.
 https://developer.apple.com/videos/play/tech-talks/609/
 
 ## Use Cases
